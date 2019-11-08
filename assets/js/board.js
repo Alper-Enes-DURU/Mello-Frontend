@@ -27,8 +27,6 @@ class Board {
   }
 }
 
-var list = new List('My first list');
-list.addCard('My first card');
+//var list = new List('My first list');
+//list.addCard('My first card');
 
-console.log(list);
-console.log(List.prototype);
